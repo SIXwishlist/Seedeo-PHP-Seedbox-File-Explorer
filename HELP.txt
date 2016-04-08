@@ -1,0 +1,23 @@
+  
+// Powered by Lord_Apo, a French 15 yo Developper 
+// 
+// Support me by making a donation -> https://www.paypal.me/lordapo
+//
+// [ENGLISH] Contact, Support & Pro:        lordapo-en@outlook.com
+// [FRANCAIS] Contact, Support & Pro:       lordapo-fr@outlook.com
+//
+// https://github.com/LordApo/Seedeo-PHP-Seedbox-File-Explorer
+// 
+// Under The MIT License (MIT) -> https://github.com/LordApo/Seedeo-PHP-Seedbox-File-Explorer/blob/master/LICENSE
+// Copyright (c) 2016 LordApo
+
+
+You need to set the download directory of your torrent software to /yourwwwfolder/yoursub.domain.dom/Seedbox
+You need to set CHMOD 777 on the /Seedbox folder 
+
+If you need more help: https://github.com/LordApo/Seedeo-PHP-Seedbox-File-Explorer/wiki
+
+Enjoy ! ;)
+
+
+If you find a bug, report on https://github.com/LordApo/Seedeo-PHP-Seedbox-File-Explorer/issues
